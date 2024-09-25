@@ -1,0 +1,1 @@
+INSERT INTO persona (nombre, edad) VALUES ('KEVIN STUART', 1);
